@@ -1,5 +1,5 @@
 ## 演示 Demo
-!['演示'](https://github.com/programmer1000/Ai-video-clip/blob/main/public/CPT2406140917-1769x797.gif)
+!['演示'](https://github.com/programmer1000/Ai-video-clip/blob/main/public/%E6%BC%94%E7%A4%BA.gif)
 ## 在线访问链接
 https://ai-video-demo.vercel.app/
 ## 技术选型
