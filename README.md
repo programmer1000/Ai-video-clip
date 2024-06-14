@@ -10,9 +10,7 @@ https://ai-video-demo.vercel.app/
 
           a、考虑到实现 视频上传 和 前端页面的交互，所以这里综合考虑直接使用 nextjs 全栈开发。
 
-          b、数据库使用：  云存储服务使用：
-
-          c、页面样式使用 tailwindcss
+          b、页面样式使用 tailwindcss
 
   2、拖拽库使用 dnd-kit
 
@@ -59,10 +57,7 @@ https://ai-video-demo.vercel.app/
 
      b、支持视频拖拽上传
 
-  2、拖拽使用三方库: dnd-kit
-
-      a、选择dnd-kit的考虑过程：
-        
+  2、拖拽使用三方库: dnd-kit      
 
   3、拖拽视频生成 clip，支持长度裁剪
 ```
